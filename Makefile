@@ -1,2 +1,2 @@
-say-hello
-<tab>Hello, World!
+say-hello:
+	echo "Hello, World!"
